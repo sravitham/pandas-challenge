@@ -89,3 +89,14 @@ Create a table that breaks down school performance based on type of school (dist
 
 # Credits:
 
+https://datascienceparichay.com/article/pandas-count-of-unique-values-in-each-column/
+
+https://stackoverflow.com/questions/32464280/converting-currency-with-to-numbers-in-python-pandas
+
+https://www.dataquest.io/blog/pandas-cheat-sheet/
+
+https://www.w3resource.com/pandas/dataframe/dataframe-set_index.php
+
+https://pandas.pydata.org/docs/reference/api/pandas.Series.value_counts.html
+
+https://sparkbyexamples.com/pandas/pandas-groupby-count-examples/#:~:text=Use%20count()%20by%20Column,floating%20type%20data%20as%20well
