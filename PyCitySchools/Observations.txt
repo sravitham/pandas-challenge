@@ -1,0 +1,9 @@
+Observations on Data Trends
+
+1) Though the Total Students was calculated using the joined table between School Data and Student. The total students that was calculated and the total students in the school data csv are equal. This was one way of verifying that the calculations was performed accurately. 
+
+2) When calculating the average reading and math scores, there was a correlation between the budget spent per student versus the average scores. It looks as the as the spending amount per student increased, the average of the scores for both reading and math decreased. 
+
+3) As the school size was bigger the average score also decreased for math and reading.
+
+4)Charter school students had higher average scores for reading and math compared to district school students.
